@@ -8,5 +8,5 @@ echo:Building Karaoke Revolution Party Deluxe patch arks.
 echo:The "Unhandled exception" below is expected, and does not indicate failure.
 "%~dp0dependencies/arkhelper" patchcreator -a "%~dp0\_ark" -o "%~dp0\_build\ps2" "%~dp0\_build\ps2\GEN\MAIN.HDR" >nul
 echo:Wrote Karaoke Revolution Party Deluxe patch arks.
-echo:Complete. Karaoke Revolution Party Deluxe
+echo:Complete. Enjoy Karaoke Revolution Party Deluxe
 pause
