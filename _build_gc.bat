@@ -1,3 +1,4 @@
+git pull https://github.com/hmxmilohax/karaoke-revolution-party-deluxe main
 @echo OFF
 echo:Make sure your vanilla ark files are in _build/gc/files/gen/
 del "%~dp0\_build\gc\files\gen\main.hdr"
