@@ -1,0 +1,416 @@
+Signature = XACT;
+Version = 9;
+
+Options
+{
+    Project Header File = ressound.h;
+    Cue List File = audio.txt;
+}
+
+Wave Bank
+{
+    Name = UIXDefault;
+    Bank File = UIXDefault.xwb;
+
+    Entry
+    {
+        Name = SelectButton;
+        File = srcmedia\select_button.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 2;
+        Sampling Rate = 48000;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 85744;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 3216889856;
+        Last Modified High = 29567389;
+    }
+
+    Entry
+    {
+        Name = Error;
+        File = srcmedia\error.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 1;
+        Sampling Rate = 48000;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 26588;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 3216889856;
+        Last Modified High = 29567389;
+    }
+
+    Entry
+    {
+        Name = Select22K;
+        File = srcmedia\Select22k.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 1;
+        Sampling Rate = 22050;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 15330;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 3216889856;
+        Last Modified High = 29567389;
+    }
+
+    Entry
+    {
+        Name = StopWatchClick;
+        File = srcmedia\StopWatchClick.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 1;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 17152;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 3216889856;
+        Last Modified High = 29567389;
+    }
+
+    Entry
+    {
+        Name = keyboard_stroke;
+        File = srcmedia\keyboard_stroke.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 1;
+        Sampling Rate = 48000;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 19840;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 1286135373;
+        Last Modified High = 29545057;
+    }
+
+    Entry
+    {
+        Name = error2;
+        File = srcmedia\error2.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 1;
+        Sampling Rate = 22050;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 39338;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 1286135373;
+        Last Modified High = 29545057;
+    }
+
+    Entry
+    {
+        Name = notify;
+        File = srcmedia\notify.wav;
+        ADPCM Filter = 1;
+        Format Tag = 0;
+        Channels = 2;
+        Sampling Rate = 48000;
+        Bits Per Sample = 1;
+        Play Region Offset = 44;
+        Play Region Length = 63176;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 0;
+        Last Modified Low = 431106138;
+        Last Modified High = 29569321;
+    }
+}
+
+Sound Group
+{
+    Name = Mixing;
+}
+
+Sound Layer
+{
+    Name = menu;
+}
+
+Sound Bank
+{
+    Name = UIXDefault;
+    Bank File = UIXDefault.xsb;
+
+    Sound
+    {
+        Name = SelectButton;
+        Volume = -833;
+        LFE Level = -10000;
+        Layer = menu;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = SelectButton;
+                    Wave Entry Index = 0;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = Select22k;
+        Headroom Boost = 1;
+        Volume = -1083;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = Select22K;
+                    Wave Entry Index = 2;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = StopWatchClick;
+        Volume = -500;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = StopWatchClick;
+                    Wave Entry Index = 3;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = SelectButton2;
+        Volume = -833;
+        LFE Level = -10000;
+        Pitch = 303;
+        Layer = menu;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = SelectButton;
+                    Wave Entry Index = 0;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = Error2;
+        Headroom Boost = 1;
+        Volume = -375;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = error2;
+                    Wave Entry Index = 5;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = Keyboard_stroke;
+        Volume = -750;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = keyboard_stroke;
+                    Wave Entry Index = 4;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = Notify2;
+        Group = Mixing;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = UIXDefault;
+                    Wave Entry = notify;
+                    Wave Entry Index = 6;
+                }
+            }
+        }
+    }
+
+    Cue
+    {
+        Name = MenuItemSelect;
+
+        Sound
+        {
+            Sound = StopWatchClick;
+            Sound Index = 2;
+        }
+    }
+
+    Cue
+    {
+        Name = Error;
+
+        Sound
+        {
+            Sound = Select22k;
+            Sound Index = 1;
+        }
+    }
+
+    Cue
+    {
+        Name = PressA;
+        Comment = Play this cue when "a" button pressed;
+
+        Sound
+        {
+            Sound = SelectButton;
+            Sound Index = 0;
+        }
+    }
+
+    Cue
+    {
+        Name = PressB;
+        Comment = This is for when 'B' button is pressed;
+
+        Sound
+        {
+            Sound = SelectButton2;
+            Sound Index = 3;
+        }
+    }
+
+    Cue
+    {
+        Name = Popup;
+
+        Sound
+        {
+            Sound = Error2;
+            Sound Index = 4;
+        }
+    }
+
+    Cue
+    {
+        Name = PasscodeEntry;
+
+        Sound
+        {
+            Sound = Keyboard_stroke;
+            Sound Index = 5;
+        }
+    }
+
+    Cue
+    {
+        Name = Notification;
+
+        Sound
+        {
+            Sound = Notify2;
+            Sound Index = 6;
+        }
+    }
+}
