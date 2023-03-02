@@ -1,5 +1,7 @@
 # Karaoke Revolution Party Deluxe
 
+![Header Image](dependencies/header.png)
+
 # Introduction
 
 ### Karaoke Revolution Party Deluxe is a Quality-of-Life Improvement Mod by [MiloHax](https://github.com/hmxmilohax)
