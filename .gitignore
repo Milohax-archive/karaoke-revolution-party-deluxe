@@ -1,0 +1,9 @@
+_build/gc/files/gen/*.hdr
+_build/gc/files/gen/*.ark
+_build/ps2/GEN/*.HDR
+_build/ps2/GEN/*.ARK
+_build/ps2/DDREX2/
+_build/ogxbox/gen/*.hdr
+_build/ogxbox/gen/*.ark
+_build/ogxbox/ddru3/
+.DS_Store
