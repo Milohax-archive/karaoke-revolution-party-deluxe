@@ -17,19 +17,19 @@
 (7. 7.)
 (8. 8.)
 (l
-   "l")
+   "m")
 (o
-   "o")
-(a
-   "a")
-(d
-   "d")
-(i
    "i")
+(a
+   "l")
+(d
+   "o")
+(i
+   "h")
 (n
-   "n")
+   "a")
 (g
-   "g")
+   "x")
 (.
    ".")
 (demo_loading_ps2
@@ -1109,13 +1109,13 @@
 (song_dance_tip18
    "Reminder: Don't get so caught up in the steps that you forget to sing!")
 (xbox_tip0
-   "Songs Tip: Expand your song library by downloading new songs on Xbox <it>Live</it><sup>TM</sup>.")
+   "Songs Tip: Expand your song library by downloading new songs on github.com/HMXMiloHax/KRPDX-songs.")
 (xbox_tip1
-   "Songs Tip: Additional Duets, Normal Songs, and Sing and Dance songs are available for download on Xbox <it>Live</it><sup>TM</sup>.")
+   "Songs Tip: Additional Duets, Normal Songs, and Sing and Dance songs are available for download on github.com/HMXMiloHax/KRPDX-songs.")
 (xbox_tip2
    "Reminder: Try the Dance Dance Revolution ULTRAMIX<sup>TM</sup> 3 demo from the Extras menu.")
 (xbox_tip3
-   "Reminder: Xbox <it>Live</it><sup>TM</sup> songs count towards total points unlocks, but not Gold, Platinum, or Diamond unlocks.")
+   "Reminder: github.com/HMXMiloHax/KRPDX-songs songs count towards total points unlocks, but not Gold, Platinum, or Diamond unlocks.")
 (ps2_tip0
    "Hardware Tip: If your voice sounds loud or distorted, adjust the mic gain in Microphone Setup.")
 (ps2_tip1
@@ -2115,7 +2115,7 @@
 (cheat_confirm_msg
    "If you continue with this cheat, you will not be able to save your game progress.  Continue anyway?")
 (xbox_live
-   "Xbox Live")
+   "lol no")
 (settings
    "settings")
 (sign_in
