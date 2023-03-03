@@ -11,3 +11,7 @@ This repo contains everything you need to build Karaoke Revolution Party Deluxe 
 # Table of Contents  
 - [Karaoke Revolution Party Deluxe](#karaoke-revolution-party-deluxe)
 - [Introduction](#introduction)
+- [Features](#features)
+
+# Features
+*All Xbox exclusive DLC ported to all platforms (WIP)
