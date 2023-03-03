@@ -3595,7 +3595,7 @@
  (hud_lyric_scale 1.2)
  (boot_sound light)
  (stage_chars keyboardist drummer guitarist bassist)
- (num_medley_sections 3)
+ (num_medley_sections 3))
 (girllikeyou
  (title
   "Waiting for a Girl Like You")
