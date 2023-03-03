@@ -51,23 +51,23 @@
 (demo_tech_ddr
    "Konami Digital Entertainment does not provide technical support for product demos.  The developer of Dance Dance Revolution ULTRAMIX<sup>TM</sup> 3 is not responsible for the content of the Karaoke Revolution Party demo.")
 (quickplay
-   "milohax bad")
+   "quickplay")
 (one_mic_party
-   "milohax bad")
+   "one mic party")
 (two_mic_party
-   "milohax bad")
+   "two mic party")
 (sing_and_dance
-   "milohax bad")
+   "sing and dance")
 (character_creator
-   "milohax bad")
+   "character creator")
 (setup_character
    "setup character")
 (karaoke
-   "milohax bad")
+   "karaoke")
 (options
-   "milohax bad")
+   "options")
 (extras
-   "milohax bad")
+   "extras")
 (select_mode
    "select mode")
 (medley
