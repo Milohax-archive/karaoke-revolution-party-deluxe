@@ -14,4 +14,4 @@ This repo contains everything you need to build Karaoke Revolution Party Deluxe 
 - [Features](#features)
 
 # Features
-*All Xbox exclusive DLC ported to all platforms (WIP)
+* All Xbox exclusive DLC ported to all platforms (WIP)
