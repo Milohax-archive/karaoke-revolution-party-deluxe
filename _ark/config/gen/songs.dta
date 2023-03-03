@@ -6,7 +6,7 @@
 #define INCLUDE_XBOX_SONGS
 (1)
 #endif
-#ifdef INCLUDE_XBOX_SONGS
+
 (abc
  (title
   "A B C")
@@ -110,7 +110,7 @@
  (player_1_preview 29000 44300)
  (player_2_preview 29600 44300)
  )
-#endif
+
 (aintnothing
  (title
   "Ain't Nothing Like the Real Thing")
@@ -177,7 +177,7 @@
   (medium 5)
   (hard 6)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (allyouwa
  (title
   "All You Wanted")
@@ -199,7 +199,7 @@
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (always
  (title
   "Always")
@@ -258,7 +258,7 @@
   (medium 3)
   (hard 5)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (areyouha
  (title
   "Are You Happy Now?")
@@ -414,7 +414,7 @@
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (brick
  (title
   "Brick House")
@@ -443,7 +443,7 @@
   (medium 5)
   (hard 7)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (brokenw
  (title
   "Broken Wings")
@@ -519,7 +519,7 @@
  (player_1_preview 7000 23700)
  (player_2_preview 8448 25876)
  )
-#endif
+
 (callme
  (title
   "Call Me")
@@ -548,7 +548,7 @@
   (expert 7))
  (stage_chars guitarist drummer keyboardist bassist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (careless
  (title
   "Careless Whisper")
@@ -697,7 +697,7 @@
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (crazysmith
  (title
   "Crazy")
@@ -747,7 +747,7 @@
   (medium 3)
   (hard 6)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (cry
  (title
   "Cry")
@@ -771,7 +771,7 @@
  (script songs/cry/script.dta)
  (num_medley_sections 3)
  )
-#endif
+
 (doyoureally
  (title
   "Do You Really Want to Hurt Me?")
@@ -800,7 +800,7 @@
   (expert 7))
  (stage_chars drummer keyboardist bassist guitarist)
  (num_medley_sections 2))
-#ifdef INCLUDE_XBOX_SONGS
+
 (dontknow
  (title
   "Don't Know Why")
@@ -873,7 +873,7 @@
  (stage_chars bassist drummer guitarist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (drive
  (title
   "Drive")
@@ -962,7 +962,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 4200 18500)
  (player_2_preview 19800 34000))
-#ifdef INCLUDE_XBOX_SONGS
+
 (everybre
  (title
   "Every Breath You Take")
@@ -984,7 +984,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (everylittle
  (title
   "Every Little Thing She Does Is Magic")
@@ -1005,7 +1005,7 @@
  (boot_sound light)
  (stage_chars keyboardist drummer bassist guitarist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (everymor
  (title
   "Every Morning")
@@ -1027,7 +1027,7 @@
  (stage_chars guitarist drummer bassist dj)
  (num_medley_sections 3)
  )
-#endif
+
 (everybody
  (title
   "Everybody Wants to Rule the World")
@@ -1056,7 +1056,7 @@
   (expert 7))
  (stage_chars guitarist drummer keyboardist bassist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (everythi
  (title
   "Everything You Want")
@@ -1078,7 +1078,7 @@
  (num_medley_sections 3)
  (stage_chars guitarist drummer bassist)
  )
-#endif
+
 (everywhere
  (title
   "Everywhere")
@@ -1135,7 +1135,7 @@
   (expert 8))
  (stage_chars drummer keyboardist bassist guitarist)
  (num_medley_sections 2))
-#ifdef INCLUDE_XBOX_SONGS
+
 (whata
  (title
   "Flashdance... What a Feeling")
@@ -1165,7 +1165,7 @@
   (hard 6)
   (expert 8))
  )
-#endif
+
 (fly
  (title
   "Fly")
@@ -1215,7 +1215,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist guitarist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (friendsin
  (title
   "Friends in Low Places")
@@ -1279,7 +1279,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (thegreatest
  (title
   "Greatest Love of All")
@@ -1321,7 +1321,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (heartbreak
  (title
   "Heartbreak Hotel")
@@ -1343,7 +1343,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (hereigo
  (title
   "Here I Go Again")
@@ -1372,7 +1372,7 @@
   (expert 7))
  (stage_chars keyboardist drummer guitarist bassist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (herewith
  (title
   "Here Without You")
@@ -1541,7 +1541,7 @@
  (stage_chars keyboardist guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (idont
  (title
   "I Don't Want To Be")
@@ -1570,7 +1570,7 @@
   (expert 8))
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (igotyou
  (title
   "I Got You Babe")
@@ -1643,7 +1643,7 @@
  (stage_chars keyboardist guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (ileft
  (title
   "I Left My Heart in San Francisco")
@@ -1693,7 +1693,7 @@
   (medium 3)
   (hard 5)
   (expert 7)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (iwant
  (title
   "I Want You Back")
@@ -1715,7 +1715,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (iwillalways
  (title
   "I Will Always Love You")
@@ -1737,7 +1737,7 @@
  (no_clap)
  (stage_chars keyboardist bassist drummer guitarist)
  (num_medley_sections 2))
-#ifdef INCLUDE_XBOX_SONGS
+
 (iwill
  (title
   "I Will Survive")
@@ -1781,7 +1781,7 @@
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (ifyoucould
  (title
   "If You Could Only See")
@@ -1823,7 +1823,7 @@
  (no_clap)
  (stage_chars drummer bassist guitarist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (illbe
  (title
   "I'll Be There")
@@ -2016,7 +2016,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (ivehad
  (title
   "(I've Had) The Time of My Life")
@@ -2054,7 +2054,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 97800 118000)
  (player_2_preview 97800 118000))
-#ifdef INCLUDE_XBOX_SONGS
+
 (jessies
  (title
   "Jessie's Girl")
@@ -2297,7 +2297,7 @@
  (player_1_preview 46592 61440)
  (player_2_preview 32853 47957)
  )
-#endif
+
 (material
  (title
   "Material Girl")
@@ -2346,7 +2346,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (meant
  (title
   "Meant to Live")
@@ -2503,7 +2503,7 @@
   (hard 7)
   (expert 9))
  )
-#endif
+
 (pain
  (title
   "Pain")
@@ -2532,7 +2532,7 @@
   (medium 3)
   (hard 5)
   (expert 7)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (papadont
  (title
   "Papa Don't Preach")
@@ -2575,7 +2575,7 @@
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (piecesof
  (title
   "Pieces of Me")
@@ -2632,7 +2632,7 @@
   (medium 4)
   (hard 6)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (pleasemr
  (title
   "Please Mr. Postman")
@@ -2903,7 +2903,7 @@
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (startmeup
  (title
   "Start Me Up")
@@ -2932,7 +2932,7 @@
   (medium 4)
   (hard 6)
   (expert 7)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (stop
  (title
   "Stop! In the Name of Love")
@@ -2954,7 +2954,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (superstition
  (title
   "Superstition")
@@ -3003,7 +3003,7 @@
  (boot_sound light)
  (stage_chars drummer keyboardist bassist guitarist)
  (num_medley_sections 2))
-#ifdef INCLUDE_XBOX_SONGS
+
 (sweethome
  (title
   "Sweet Home Alabama")
@@ -3046,7 +3046,7 @@
  (stage_chars keyboardist drummer bassist dj)
  (num_medley_sections 3)
  )
-#endif
+
 (takeon
  (title
   "Take On Me")
@@ -3095,7 +3095,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (thankyou
  (title
   "Thank You")
@@ -3117,7 +3117,7 @@
  (stage_chars dj guitarist bassist keyboardist)
  (num_medley_sections 2)
  )
-#endif
+
 (thatsamore
  (title
   "That's Amore")
@@ -3148,7 +3148,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 101200 121700)
  (player_2_preview 121400 138700))
-#ifdef INCLUDE_XBOX_SONGS
+
 (firstcut
  (title
   "The First Cut Is the Deepest")
@@ -3170,7 +3170,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (gameof
  (title
   "The Game of Love")
@@ -3199,7 +3199,6 @@
   (medium 3)
   (hard 6)
   (expert 7)))
-#ifdef INCLUDE_XBOX_SONGS
 (thejoker
  (title
   "The Joker")
@@ -3219,8 +3218,8 @@
  (hud_lyric_scale 1.2)
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
- (num_medley_sections 2)
- )
+ (num_medley_sections 2))
+
 (powerofl
  (title
   "The Power of Love")
@@ -3305,7 +3304,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (timeafter
  (title
   "Time After Time")
@@ -3327,7 +3326,7 @@
  (no_clap)
  (stage_chars drummer guitarist keyboardist bassist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (toxic
  (title
   "Toxic")
@@ -3349,7 +3348,7 @@
  (stage_chars dj guitarist bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (truthis
  (title
   "Truth Is")
@@ -3417,7 +3416,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 22000 37600)
  (player_2_preview 22000 38600))
-#ifdef INCLUDE_XBOX_SONGS
+
 (twistand
  (title
   "Twist and Shout")
@@ -3508,7 +3507,7 @@
  (player_1_preview 37294 46574)
  (player_2_preview 54420 64406)
  )
-#endif
+
 (unforget
  (title
   "Unforgettable")
@@ -3616,7 +3615,7 @@
  (boot_sound light)
  (stage_chars drummer keyboardist bassist)
  (num_medley_sections 2))
-#ifdef INCLUDE_XBOX_SONGS
+
 (waitingfor
  (title
   "Waiting for Tonight")
@@ -3680,7 +3679,7 @@
  (stage_chars guitarist bassist keyboardist drummer)
  (num_medley_sections 2)
  )
-#endif
+
 (whati
  (title
   "What I Like About You")
@@ -3709,7 +3708,7 @@
   (medium 2)
   (hard 6)
   (expert 8)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (whenaman
  (title
   "When a Man Loves a Woman")
@@ -3773,7 +3772,7 @@
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (whocan
  (title
   "Who Can It Be Now?")
@@ -3802,7 +3801,7 @@
   (medium 4)
   (hard 6)
   (expert 7)))
-#ifdef INCLUDE_XBOX_SONGS
+
 (whycant
  (title
   "Why Can't I?")
@@ -3846,7 +3845,7 @@
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
  )
-#endif
+
 (natural
  (title
   "(You Make Me Feel Like) A Natural Woman")
@@ -3868,7 +3867,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (youreall
  (title
   "You Really Got Me")
@@ -3890,7 +3889,7 @@
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
  )
-#endif
+
 (mybest
  (title
   "You're My Best Friend")
@@ -3911,7 +3910,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3))
-#ifdef INCLUDE_XBOX_SONGS
+
 (yourthe
  (title
   "You're the One That I Want")
@@ -3942,4 +3941,4 @@
  (player_1_preview 107093 65194)
  (player_2_preview 107093 65194)
  )
-#endif
+
