@@ -36,7 +36,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 30620 42680)
  (player_2_preview 30920 41000)
- (liberated FALSE))
+ )
 (addicted
  (title
   "Addicted")
@@ -57,7 +57,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (against
  (title
   "Against All Odds")
@@ -79,7 +79,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (aintno
  (title
   "Ain't No Mountain High Enough")
@@ -109,7 +109,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 29000 44300)
  (player_2_preview 29600 44300)
- (liberated FALSE))
+ )
 #endif
 (aintnothing
  (title
@@ -198,7 +198,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (always
  (title
@@ -279,7 +279,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (babyone
  (title
   "...Baby One More Time")
@@ -300,7 +300,7 @@
  (boot_sound heavy)
  (stage_chars dj keyboardist guitarist bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (beatit
  (title
   "Beat It")
@@ -329,7 +329,7 @@
   (medium 3)
   (hard 5)
   (expert 8))
- (liberated FALSE))
+ )
 (believe
  (title
   "Believe")
@@ -350,7 +350,7 @@
  (boot_sound dj)
  (stage_chars guitarist dj keyboardist bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (billieje
  (title
   "Billie Jean")
@@ -371,7 +371,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (bizarrel
  (title
   "Bizarre Love Triangle")
@@ -392,7 +392,7 @@
  (boot_sound light)
  (stage_chars drummer keyboardist bassist guitarist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (bornto
  (title
   "Born to Be Wild")
@@ -413,7 +413,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (brick
  (title
@@ -464,7 +464,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (burn
  (title
   "Burn")
@@ -488,7 +488,7 @@
  (no_clap)
  (stage_chars dj bassist keyboardist guitarist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (california
  (title
   "California Dreamin'")
@@ -518,7 +518,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 7000 23700)
  (player_2_preview 8448 25876)
- (liberated FALSE))
+ )
 #endif
 (callme
  (title
@@ -570,7 +570,7 @@
  (no_clap)
  (stage_chars bassist drummer guitarist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (celebrat
  (title
   "Celebration")
@@ -591,7 +591,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (chainof
  (title
   "Chain of Fools")
@@ -612,7 +612,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (china
  (title
   "China Grove")
@@ -633,7 +633,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (comeclean
  (title
   "Come Clean")
@@ -654,7 +654,7 @@
  (boot_sound light)
  (stage_chars guitarist dj bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (complica
  (title
   "Complicated")
@@ -675,7 +675,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (crawling
  (title
   "Crawling in the Dark")
@@ -696,7 +696,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (crazysmith
  (title
@@ -770,7 +770,7 @@
  (stage_chars guitarist drummer bassist keyboardist)
  (script songs/cry/script.dta)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (doyoureally
  (title
@@ -822,7 +822,7 @@
  (no_clap)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (dontyou
  (title
   "Don't You (Forget About Me)")
@@ -851,7 +851,7 @@
   (expert 9))
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (driftaway
  (title
   "Drift Away")
@@ -872,7 +872,7 @@
  (boot_sound light)
  (stage_chars bassist drummer guitarist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (drive
  (title
@@ -983,7 +983,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (everylittle
  (title
@@ -1026,7 +1026,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist dj)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (everybody
  (title
@@ -1077,7 +1077,7 @@
  (boot_sound heavy)
  (num_medley_sections 3)
  (stage_chars guitarist drummer bassist)
- (liberated FALSE))
+ )
 #endif
 (everywhere
  (title
@@ -1164,7 +1164,7 @@
   (medium 3)
   (hard 6)
   (expert 8))
- (liberated FALSE))
+ )
 #endif
 (fly
  (title
@@ -1236,7 +1236,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (geniein
  (title
   "Genie in a Bottle")
@@ -1257,7 +1257,7 @@
  (boot_sound light)
  (stage_chars dj bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (girlsjus
  (title
   "Girls Just Want to Have Fun")
@@ -1278,7 +1278,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (thegreatest
  (title
@@ -1342,7 +1342,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (hereigo
  (title
@@ -1393,7 +1393,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (heyjealo
  (title
   "Hey Jealousy")
@@ -1414,7 +1414,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (hitmewit
  (title
   "Hit Me With Your Best Shot")
@@ -1435,7 +1435,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (holdon
  (title
   "Hold On")
@@ -1456,7 +1456,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (hotstuff
  (title
   "Hot Stuff")
@@ -1477,7 +1477,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (howyoure
  (title
   "How You Remind Me")
@@ -1498,7 +1498,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (ibelievein
  (title
   "I Believe in a Thing Called Love")
@@ -1519,7 +1519,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (icant
  (title
   "I Can't Help Myself (Sugar Pie, Honey Bunch)")
@@ -1540,7 +1540,7 @@
  (boot_sound light)
  (stage_chars keyboardist guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (idont
  (title
@@ -1600,7 +1600,7 @@
   (kFemaleBackMaleLead 0 1))
  (player_1_preview 5973 14677)
  (player_2_preview 15701 24832)
- (liberated FALSE))
+ )
 (ihate
  (title
   "I Hate Everything About You")
@@ -1621,7 +1621,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (iheardit
  (title
   "I Heard it Through the Grapevine")
@@ -1642,7 +1642,7 @@
  (boot_sound light)
  (stage_chars keyboardist guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (ileft
  (title
@@ -1714,7 +1714,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (iwillalways
  (title
@@ -1758,7 +1758,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (ifiaint
  (title
   "If I Ain't Got You")
@@ -1780,7 +1780,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (ifyoucould
  (title
@@ -1844,7 +1844,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (illmake
  (title
   "I'll Make Love to You")
@@ -1866,7 +1866,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (imcoming
  (title
   "I'm Coming Out")
@@ -1887,7 +1887,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (imwith
  (title
   "I'm With You")
@@ -1909,7 +1909,7 @@
  (no_clap)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (midnight
  (title
   "In the Midnight Hour")
@@ -1930,7 +1930,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (irresistible
  (title
   "Irresistible")
@@ -1951,7 +1951,7 @@
  (boot_sound heavy)
  (stage_chars guitarist dj bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (itsmy
  (title
   "It's My Life")
@@ -1972,7 +1972,7 @@
  (boot_sound light)
  (stage_chars drummer keyboardist guitarist bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (endofwor
  (title
   "It's the End of the World As We Know It")
@@ -1993,7 +1993,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (undermy
  (title
   "I've Got You Under My Skin")
@@ -2015,7 +2015,7 @@
  (no_clap)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (ivehad
  (title
@@ -2075,7 +2075,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (joyto
  (title
   "Joy to the World")
@@ -2096,7 +2096,7 @@
  (boot_sound heavy)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (justmy
  (title
   "Just My Imagination")
@@ -2117,7 +2117,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (killing
  (title
   "Killing Me Softly")
@@ -2140,7 +2140,7 @@
  (boot_sound light)
  (stage_chars dj bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (kissme
  (title
   "Kiss Me")
@@ -2161,7 +2161,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (ladiesni
  (title
   "Ladies Night")
@@ -2182,7 +2182,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (ladymarm
  (title
   "Lady Marmalade")
@@ -2203,7 +2203,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (leave
  (title
   "Leave (Get Out)")
@@ -2224,7 +2224,7 @@
  (boot_sound heavy)
  (stage_chars dj guitarist bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (letsgetit
  (title
   "Let's Get It On")
@@ -2245,7 +2245,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (likeavir
  (title
   "Like a Virgin")
@@ -2266,7 +2266,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (loveshack
  (title
   "Love Shack")
@@ -2296,7 +2296,7 @@
   (kFemaleBackMaleLead 0 1))
  (player_1_preview 46592 61440)
  (player_2_preview 32853 47957)
- (liberated FALSE))
+ )
 #endif
 (material
  (title
@@ -2367,7 +2367,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (missyou
  (title
   "Miss You")
@@ -2388,7 +2388,7 @@
  (boot_sound light)
  (stage_chars dj guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (mygirl
  (title
   "My Girl")
@@ -2409,7 +2409,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (myimmort
  (title
   "My Immortal")
@@ -2431,7 +2431,7 @@
  (no_clap)
  (stage_chars keyboardist guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (newyork
  (title
   "New York, New York")
@@ -2452,7 +2452,7 @@
  (boot_sound light)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (oneweek
  (title
   "One Week")
@@ -2473,7 +2473,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (oops
  (title
   "Oops!... I Did It Again")
@@ -2502,7 +2502,7 @@
   (medium 4)
   (hard 7)
   (expert 9))
- (liberated FALSE))
+ )
 #endif
 (pain
  (title
@@ -2553,7 +2553,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer keyboardist bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (perfect
  (title
   "Perfect")
@@ -2574,7 +2574,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (piecesof
  (title
@@ -2653,7 +2653,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (respect
  (title
   "Respect")
@@ -2683,7 +2683,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 108000 120000)
  (player_2_preview 100000 110000)
- (liberated FALSE))
+ )
 (richgirl
  (title
   "Rich Girl")
@@ -2704,7 +2704,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (rockandroll
  (title
   "Rock and Roll All Nite")
@@ -2725,7 +2725,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (savetoni
  (title
   "Save Tonight")
@@ -2746,7 +2746,7 @@
  (boot_sound light)
  (stage_chars guitarist bassist drummer)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (scienceg
  (title
   "Science Genius Girl")
@@ -2767,7 +2767,7 @@
  (boot_sound dj)
  (stage_chars dj keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (shetalks
  (title
   "She Talks To Angels")
@@ -2788,7 +2788,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (shining
  (title
   "Shining Star")
@@ -2818,7 +2818,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 128000 138000)
  (player_2_preview 128000 138000)
- (liberated FALSE))
+ )
 (sittingon
  (title
   "(Sittin' On) The Dock of the Bay")
@@ -2839,7 +2839,7 @@
  (boot_sound light)
  (stage_chars guitarist bassist drummer keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (snake
  (title
   "Snake Eater")
@@ -2860,7 +2860,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (someday
  (title
   "Someday")
@@ -2881,7 +2881,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (preacher
  (title
   "Son of a Preacher Man")
@@ -2902,7 +2902,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (startmeup
  (title
@@ -2953,7 +2953,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (superstition
  (title
@@ -3024,7 +3024,7 @@
  (boot_sound light)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (takemy
  (title
   "Take My Breath Away")
@@ -3045,7 +3045,7 @@
  (boot_sound light)
  (stage_chars keyboardist drummer bassist dj)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (takeon
  (title
@@ -3116,7 +3116,7 @@
  (boot_sound light)
  (stage_chars dj guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (thatsamore
  (title
@@ -3169,7 +3169,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (gameof
  (title
@@ -3220,7 +3220,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (powerofl
  (title
   "The Power of Love")
@@ -3241,7 +3241,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (thereason
  (title
   "The Reason")
@@ -3262,7 +3262,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (tracksof
  (title
   "Tracks of My Tears")
@@ -3283,7 +3283,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (thisold
  (title
   "This Old Heart of Mine (Is Weak for You)")
@@ -3304,7 +3304,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (timeafter
  (title
@@ -3348,7 +3348,7 @@
  (boot_sound heavy)
  (stage_chars dj guitarist bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (truthis
  (title
@@ -3455,7 +3455,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 6500 20800)
  (player_2_preview 8500 23300)
- (liberated FALSE))
+ )
 (unchained
  (title
   "Unchained Melody")
@@ -3477,7 +3477,7 @@
  (no_clap)
  (stage_chars drummer guitarist bassist keyboardist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (under
  (title
   "Under Pressure")
@@ -3507,7 +3507,7 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 37294 46574)
  (player_2_preview 54420 64406)
- (liberated FALSE))
+ )
 #endif
 (unforget
  (title
@@ -3637,7 +3637,7 @@
  (boot_sound dj)
  (stage_chars guitarist dj bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (waiting
  (title
   "Waiting For You")
@@ -3658,7 +3658,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (wearefam
  (title
   "We Are Family")
@@ -3679,7 +3679,7 @@
  (boot_sound light)
  (stage_chars guitarist bassist keyboardist drummer)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 #endif
 (whati
  (title
@@ -3730,7 +3730,7 @@
  (boot_sound light)
  (stage_chars guitarist drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (whenim
  (title
   "When I'm Gone")
@@ -3751,7 +3751,7 @@
  (boot_sound light)
  (stage_chars guitarist bassist drummer)
  (num_medley_sections 2)
- (liberated FALSE))
+ )
 (whiteflag
  (title
   "White Flag")
@@ -3772,7 +3772,7 @@
  (boot_sound light)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (whocan
  (title
@@ -3823,7 +3823,7 @@
  (boot_sound light)
  (stage_chars guitarist bassist drummer)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 (windbene
  (title
   "Wind Beneath My Wings")
@@ -3845,7 +3845,7 @@
  (no_clap)
  (stage_chars drummer bassist keyboardist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (natural
  (title
@@ -3889,7 +3889,7 @@
  (boot_sound heavy)
  (stage_chars guitarist drummer bassist)
  (num_medley_sections 3)
- (liberated FALSE))
+ )
 #endif
 (mybest
  (title
@@ -3941,5 +3941,5 @@
   (kFemaleBackMaleLead 1 0))
  (player_1_preview 107093 65194)
  (player_2_preview 107093 65194)
- (liberated FALSE))
+ )
 #endif
