@@ -20,8 +20,7 @@
    (main_xboxlive.btn set_text "who needs xbox live when you have MiloHax?")
    (poll
       {main_livestatus.lbl
-         set_localized_text
-         {live_mgr get_status}})
+         set_localized_text "\"dlc\" is a generous term for something that unlocks content on the disc"})
    #endif}
 #define MAIN_SCREEN_HANDLERS
 ((flow main)
