@@ -2840,6 +2840,24 @@
  (stage_chars guitarist bassist drummer keyboardist)
  (num_medley_sections 3)
  )
+(smoothcr
+   (title
+      "Smooth Criminal")
+   (artist
+      "Alien Ant Farm")
+   (song_length
+      "3:03")
+   (short_song_length
+  "2:15")
+   (complexity kCompDifficult)
+   (bpm 127)
+   (genre kGenreRock)
+   (preview 113900 132600)
+   (hud_time_scale 1.45)
+   (hud_lyric_scale 1.2)
+   (boot_sound heavy)
+   (stage_chars guitarist bassist drummer)
+   (num_medley_sections 2))
 (snake
  (title
   "Snake Eater")
