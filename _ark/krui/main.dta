@@ -17,10 +17,10 @@
       (vertical main_quickplay.btn main_onemic.btn main_twomic.btn main_singdance.btn main_char.btn main_karaoke.btn main_extras.btn main_options.btn main_xboxlive.btn))
    MAIN_PANEL_HANDLERS
    #ifdef HX_XBOX
-   (main_xboxlive.btn set_text "who needs xbox live when you have MiloHax?")
+   (main_xboxlive.btn set_text "MiloHax Live")
    (poll
       {main_livestatus.lbl
-         set_localized_text "\"dlc\" is a generous term for something that unlocks content on the disc"})
+         set_localized_text "offline. obviously."})
    #endif}
 #define MAIN_SCREEN_HANDLERS
 ((flow main)

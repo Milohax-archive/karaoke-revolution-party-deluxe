@@ -91,7 +91,7 @@
             last_online_state
             {$this is_online}}
          {xlive_state.lbl
-            set_localized_text "Xbox® Live is down. Insignia? who knows. i'm not paid to ask."}}
+            set_localized_text "offline. you don't have this problem with GoCentral."}}
       TRUE)
    (enable
       ($component)

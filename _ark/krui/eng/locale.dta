@@ -781,7 +781,7 @@
 (eyetoy_camera
    "EyeToy® Camera")
 (gameplay_help_staff
-   "Hide the note tubes for a real challenge!")
+   "Turn the note tubes off to simulate Yoko!")
 (gameplay_help_lyrics
    "Think you know the words? Try turning off the lyrics.")
 (gameplay_help_dance
@@ -1109,13 +1109,13 @@
 (song_dance_tip18
    "Reminder: Don't get so caught up in the steps that you forget to sing!")
 (xbox_tip0
-   "Songs Tip: Expand your song library by downloading new songs on github.com/HMXMiloHax/KRPDX-songs.")
+   "Songs Tip: Expand dong by downloading new songs off the internet.")
 (xbox_tip1
-   "Songs Tip: Additional Duets, Normal Songs, and Sing and Dance songs are available for download on github.com/HMXMiloHax/KRPDX-songs.")
+   "Songs Tip: Additional Duets, Normal Songs, and Sing and Dance songs are available for download off the internet.")
 (xbox_tip2
    "Reminder: Try the Dance Dance Revolution ULTRAMIX<sup>TM</sup> 3 demo from the Extras menu.")
 (xbox_tip3
-   "Reminder: github.com/HMXMiloHax/KRPDX-songs songs count towards total points unlocks, but not Gold, Platinum, or Diamond unlocks.")
+   "Reminder: DLC songs count towards total points unlocks, but not Gold, Platinum, or Diamond unlocks.")
 (ps2_tip0
    "Hardware Tip: If your voice sounds loud or distorted, adjust the mic gain in Microphone Setup.")
 (ps2_tip1

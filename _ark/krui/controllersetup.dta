@@ -263,9 +263,7 @@
                ($max_frame
                   {if_else
                      {'||'
-                        {==
-                           {$this num_mics}
-                           1}
+                        {== {$this num_mics} 1}
                         {$this is_mic_selected 1}}
                      CTRLSETUP_NOPLAYER
                      CTRLSETUP_PLAYER1})
@@ -322,16 +320,6 @@
       #endif)
    (disconnect_controller
       ($idx)
-      {if
-         {==
-            {$this mic_selection 0}
-            $idx}
-         {$this cancel_mic 0 $idx}}
-      {if
-         {==
-            {$this mic_selection 1}
-            $idx}
-         {$this cancel_mic 1 $idx}}
       {{$this ctrl_mesh $idx}
          set_mat
          {$this ctrl_mat $idx}}
@@ -373,11 +361,11 @@
                connected.mat})}))
 {new_kr_panel
    controllersetup_onemic
-   (num_mics 1)
+   (num_mics 0)
    CONTROLLERSETUP_PANEL_HANDLERS}
 {new_kr_panel
    controllersetup_twomic
-   (num_mics 2)
+   (num_mics 0)
    CONTROLLERSETUP_PANEL_HANDLERS}
 #define CONTROLLERSETUP_SCREEN_HANDLERS
 ((set_controllersetup_help
