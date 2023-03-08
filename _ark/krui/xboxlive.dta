@@ -91,7 +91,7 @@
             last_online_state
             {$this is_online}}
          {xlive_state.lbl
-            set_localized_text "offline. you don't have this problem with GoCentral."}}
+            set_localized_text "offline. thanks, epic."}}
       TRUE)
    (enable
       ($component)

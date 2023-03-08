@@ -1,6 +1,6 @@
 #define MAIN_PANEL_HANDLERS
 ((fade_mats TRUE)
-   (focus main_quickplay.btn))
+   (focus main_karaoke.btn))
 {new_kr_panel
    main
    (navigator
