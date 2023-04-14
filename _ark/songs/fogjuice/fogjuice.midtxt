@@ -1,0 +1,85 @@
+tempo ch 0 {
+  0: name "TEMPO TRACK", tempo 500000, time (4 : 4, 18, 8);
+}
+
+"EVENTS" ch 0 {
+  0: text "[crowd_normal]", text "[prc_intro]";
+  8: text "[music_start]", text "[prc_chorus_1]";
+  14: text "[prc_verse]";
+  16: text "[prc_chorus_2]";
+  19: text "[prc_chorus_3]";
+  25.5: text "[prc_outro_chorus]";
+  28: text "[music_end]";
+  62: text "[end]";
+}
+
+"MEDLEY" ch 0 {
+  0: text "short_on";
+  0.5: text "short_vox_on";
+  7.75: text "medley_on1", text "medley_vox_on1";
+  27.5: text "medley_vox_off1", text "medley_off1", text "short_vox_off";
+}
+
+"Vocals" ch 0 {
+  8: on 55 v 127, on 105 v 127, on 116 v 127, lyric "Do";
+  8+(187/480): off 55 v 0;
+  8+(277/480): on 65 v 127, lyric "not";
+  8+(221/240): off 65 v 0;
+  9+(127/480): on 65 v 127, lyric "vape";
+  9.65: off 65 v 0;
+  9+(31/32): on 59 v 127, lyric "the";
+  10+(13/120): off 59 v 0;
+  10+(71/240): on 60 v 127, lyric "Rock";
+  10+(25/32): off 60 v 0;
+  11+(7/40): on 60 v 127, lyric "Band";
+  11+(307/480): off 60 v 0;
+  11+(463/480): on 59 v 127, lyric "Fog";
+  12+(247/480): off 59 v 0;
+  12+(161/240): on 56 v 127, lyric "Juice";
+  13+(1/30): off 56 v 0;
+  13.25: off 105 v 0, off 116 v 0, on 105 v 127, on 116 v 127;
+  14+(23/80): on 59 v 127, lyric "Please";
+  15+(73/120): off 59 v 0;
+  15+(7/8): off 105 v 0, off 116 v 0;
+  16: on 105 v 127;
+  16+(67/480): on 59 v 127, lyric "Do";
+  16+(127/160): off 59 v 0;
+  16+(71/80): on 65 v 127, lyric "not";
+  17+(187/480): off 65 v 0;
+  17+(7/12): on 64 v 127, lyric "do";
+  18+(23/480): off 64 v 0;
+  18+(17/120): on 59 v 127, lyric "that";
+  18+(73/120): off 59 v 0;
+  18.75: off 105 v 0, on 105 v 127;
+  19: text "[intense]";
+  19+(7/30): on 64 v 127, lyric "Here's";
+  19+(23/30): off 64 v 0;
+  20+(11/240): on 69 v 127, lyric "me";
+  20+(37/80): off 69 v 0;
+  20+(167/240): on 65 v 127, lyric "tell-";
+  20+(141/160): off 65 v 0;
+  21+(1/15): on 65 v 127, lyric "ing";
+  21.3: off 65 v 0;
+  21+(83/240): on 61 v 127, lyric "you";
+  21+(161/240): off 61 v 0;
+  21.75: off 105 v 0, on 105 v 127;
+  22: text "[play]";
+  22+(43/480): on 61 v 127, lyric "Not";
+  22+(43/120): off 61 v 0;
+  22+(377/480): on 62 v 127, lyric "to";
+  22+(37/40): off 62 v 0;
+  23+(5/32): on 62 v 127, lyric "do";
+  23+(127/240): off 62 v 0;
+  23+(23/40): on 61 v 127, lyric "that";
+  23+(221/240): off 61 v 0;
+  24.25: off 105 v 0;
+  25.25: on 105 v 127;
+  25.5: text "[mellow]";
+  25+(193/240): on 58 v 127, lyric "Don't";
+  26+(17/480): off 58 v 0;
+  26+(173/480): on 62 v 127, lyric "do";
+  26+(187/240): off 62 v 0;
+  26+(221/240): on 57 v 127, lyric "that^";
+  27+(157/480): off 57 v 0;
+  27.5: off 105 v 0;
+}
